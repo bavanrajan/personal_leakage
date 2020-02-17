@@ -1,0 +1,2 @@
+ sudo chmod 755 /etc/init.d/saved_file_analysis.py
+ sudo update-rc.d saved_file_analysis.py defaults
