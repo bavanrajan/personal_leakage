@@ -1,2 +1,2 @@
- sudo chmod 755 /etc/init.d/saved_file_analysis.py
- sudo update-rc.d saved_file_analysis.py defaults
+ sudo chmod 755 /etc/init.d/record_periods.py
+ sudo update-rc.d record_periods.py defaults
