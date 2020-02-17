@@ -1,2 +1,0 @@
- sudo chmod 755 /etc/init.d/test_outside.py
- sudo update-rc.d test_outside defaults
