@@ -1,2 +1,1 @@
-sudo chmod 755 /etc/init.d/leak_detect.py
-sudo update-rc.d leak_detect.py defaults
+
