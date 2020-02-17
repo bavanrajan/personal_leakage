@@ -1,2 +1,2 @@
-# test_onboot
-Code to start testing process on boot. will output whether sound is "leak" or "no leak" but will not save files
+# record_file_onboot
+Saves files to desktop in a folder named by MMDDYY and file by HHMMSS. Files can then be run in the pi to see frequencies, determine range
